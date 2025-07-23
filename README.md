@@ -150,4 +150,4 @@ Muhammad Mudasir
 LinkedIn: www.linkedin.com/in/mudasir-malik-000a7822a
 
 
-GitHub: [github.com](https://github.com)
+Google colab:(https://colab.research.google.com/drive/1sNdGeZl5sHUhgF6Mrnp2Gls30UNAFlOH?usp=sharing)
